@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Input Constraints</string>
+    <string name="input_constraints">Input Constraints</string>
+    <string name="uppercase_alphabets_a_z">Uppercase alphabets(A-Z)</string>
+    <string name="lowercase_aphabets_a_z">Lowercase aphabets(a-z)</string>
+    <string name="digits_0_9">Digits(0-9)</string>
+    <string name="mathematical_operations">Mathematical Operations(+,-,/,*,%)</string>
+    <string name="others_symbols_etc">Others symbols(#,$,etc)</string>
+    <string name="take_input">TAKE INPUT</string>
+    <string name="send_back">SEND BACK</string>
+    <string name="enter_the_expression">Enter the Expression</string>
+    <string name="textview">TextView</string>
+</resources>
