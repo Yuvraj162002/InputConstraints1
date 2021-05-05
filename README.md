@@ -13,3 +13,8 @@ Here is the some screen shots of the app
 <img width="203" alt="InputConstrauints4" src="https://user-images.githubusercontent.com/77117240/117051133-d39ab180-ad33-11eb-9652-d8f05d3a4eb5.png">
 <img width="239" alt="InputConstrauints6" src="https://user-images.githubusercontent.com/77117240/117051147-d85f6580-ad33-11eb-90f6-32972ecad0f3.png">
 <img width="205" alt="InputConstrauints7" src="https://user-images.githubusercontent.com/77117240/117051743-84a14c00-ad34-11eb-8dfa-fa81e1afe4d2.png">
+
+
+# APK
+
+https://github.com/Yuvraj162002/InputConstraints1/blob/master/app-debug.apk
